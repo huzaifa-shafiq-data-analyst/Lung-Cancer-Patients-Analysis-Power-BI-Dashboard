@@ -36,8 +36,6 @@ Repository Contents
 
 📂 Dashboard: Power BI file showcasing analysis
 
-📂 Documentation: Guide to using the dashboard
-
 Connect & Collaborate
 
 Interested in leveraging data analytics for healthcare insights? Let's collaborate!
